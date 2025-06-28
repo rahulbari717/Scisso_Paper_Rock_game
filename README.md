@@ -24,9 +24,6 @@ An interactive **Rock–Paper–Scissors** terminal game written in C, designed 
 Here’s what the game looks like when played:
 
 ![Screenshot](assets/rock_game1.png)
-![Screenshot 2](assets/rock_game2.png)
-![Screenshot 3](assets/rock_game3.png)
-![Screenshot 4](assets/rock_game4.png)
 
 ---
 
@@ -39,6 +36,7 @@ Watch the game in action! 🎬
 
 ## 📂 Project Structure
 
+<pre>
 Scisso_Paper_Rock_game/
 ├── 📁 assets/              # 🖼️ Screenshots, GIFs
 │   ├── game_demo.gif
@@ -62,11 +60,8 @@ Scisso_Paper_Rock_game/
 ├── Makefile                # ⚙️ Build automation
 ├── README.md               # 📖 Project overview
 └── .gitignore             # 🚫 Git exclusions
-
+</pre>
 ---
-
----
-
 ## 🏃‍♂️ Quick Start
 
 ### 🛠️ Prerequisites
@@ -77,7 +72,7 @@ Scisso_Paper_Rock_game/
 ### ⚙️ Build & Run Commands
 ```bash
 # 🧹 Clean previous builds
-make clean
+make clean 
 
 # 🔨 Compile the project
 make
@@ -85,26 +80,26 @@ make
 # 🎮 Run the game
 make run
 
-# 🧪 Run tests (optional)
+# 🧪 Testing : Run the included unit tests to verify game logic: ✅ (optional)
 make test
-
+```
 ---
 
 🎯 How to Play
 
-🚀 Run the game using make run
-🎮 Choose your move: Rock (R), Paper (P), or Scissors (S)
-🤖 Computer makes its choice
-🏆 Winner is determined based on classic rules
-🔄 Play again or quit anytime!
+1. 🚀 Run the game using make run
+2. 🎮 Choose your move: Rock (R), Paper (P), or Scissors (S)
+3. 🤖 Computer makes its choice
+4. 🏆 Winner is determined based on classic rules
+5. 🔄 Play again or quit anytime!
 
 ---
 
-🧪 Testing
-Run the included unit tests to verify game logic: ✅
-
 📜 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License. 📄
+See LICENSE for more details.
+
+---
 
 🙌 Acknowledgements
 
@@ -112,3 +107,14 @@ Built with ❤️ in a Linux terminal
 Designed for learning C programming and having fun! 🎉
 Perfect for demonstrating clean code practices 💡
 
+## 📞 Contact
+DM me if you have any questions! 💬
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-bari-embeddeddeveloper/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulbari717@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulbari717)
+
+---
+
+**Happy Gaming!** 🎮✨
+---
