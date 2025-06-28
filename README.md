@@ -43,7 +43,6 @@ Watch the game in action! 🎬
 ---
 
 ## 📂 Project Structure
-
 <pre>
 Scisso_Paper_Rock_game/
 ├── 📁 assets/              # 🖼️ Screenshots, GIFs
@@ -96,7 +95,12 @@ make test
 ```
 ---
 
-🎯 How to Play
+**📖 Detailed Guide**
+For comprehensive setup instructions and usage examples, see our [Quick Start Guide](QUICK_START.md) 📋
+
+---
+
+## 🎯 How to Play
 
 1. 🚀 Run the game using make run
 2. 🎮 Choose your move: Rock (R), Paper (P), or Scissors (S)
@@ -106,17 +110,19 @@ make test
 
 ---
 
-📜 License
+## 📜 License
 This project is open-source and available under the MIT License. 📄
 See LICENSE for more details.
 
 ---
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 
 Built with ❤️ in a Linux terminal
 Designed for learning C programming and having fun! 🎉
 Perfect for demonstrating clean code practices 💡
+
+---
 
 ## 📞 Contact & Repository
 🔗 **Project Repository**: [Scisso_Paper_Rock_game](https://github.com/rahulbari717/Scisso_Paper_Rock_game)
