@@ -19,6 +19,14 @@ An interactive **Rock–Paper–Scissors** terminal game written in C, designed 
 
 ---
 
+## 📋 Requirements
+- **GCC Compiler** 4.8 or later 🔧
+- **Make Utility** 3.81+ ⚡
+- **Operating System**: Linux/macOS/WSL 🐧
+- **Terminal Access** 💻
+
+---
+
 ## 📸 Screenshot
 
 Here’s what the game looks like when played:
@@ -62,12 +70,15 @@ Scisso_Paper_Rock_game/
 └── .gitignore             # 🚫 Git exclusions
 </pre>
 ---
+
 ## 🏃‍♂️ Quick Start
 
-### 🛠️ Prerequisites
-- GCC compiler installed 📦
-- Make utility available ⚡
-- Linux/Unix terminal 🐧
+### 🛠️ Installation
+```bash
+# Clone the repository
+git clone https://github.com/rahulbari717/Scisso_Paper_Rock_game.git
+cd Scisso_Paper_Rock_game
+```
 
 ### ⚙️ Build & Run Commands
 ```bash
@@ -107,7 +118,9 @@ Built with ❤️ in a Linux terminal
 Designed for learning C programming and having fun! 🎉
 Perfect for demonstrating clean code practices 💡
 
-## 📞 Contact
+## 📞 Contact & Repository
+🔗 **Project Repository**: [Scisso_Paper_Rock_game](https://github.com/rahulbari717/Scisso_Paper_Rock_game)
+
 DM me if you have any questions! 💬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-bari-embeddeddeveloper/)
